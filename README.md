@@ -44,6 +44,6 @@
 
   
 
-![sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketsolanke4&show_icons=true&locale=en) | ![sanket's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanketsolanke4&locale=en&theme=tokyonight) |
+![sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketsolanke4&show_icons=true&locale=en&locale=en&theme=tokyonight) | ![sanket's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanketsolanke4&locale=en&theme=tokyonight) |
 | :---: | :---: |
   
