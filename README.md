@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/sanketsolanke4/sanketsolanke4/blob/main/github_banner.png">
+<!-- <img width="100%" src="https://github.com/sanketsolanke4/sanketsolanke4/blob/main/github_banner.png"> -->
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h1 align="center">Hi 👋, I'm Sanket Solanke</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
