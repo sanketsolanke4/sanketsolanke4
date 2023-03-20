@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Java,SpringBoot,mySql**
 
 - 💬 Ask me about **Html,CSS,Java,Dsa**
-- 👨‍💻 All of my projects are available at  **<a href="https://github.com/sanketsolanke4/sanketsolanke4.github.io">Protfolio</a>**
+- 👨‍💻 All of my projects are available at  **<a href="https://sanketsolanke4.github.io">Protfolio</a>**
 - 📫 How to reach me **sanketsolanke4@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1P4yUP7L26RuoF7DKPpQr0KVFFMM8rWVe/view?usp=share_link">Resume</a>
